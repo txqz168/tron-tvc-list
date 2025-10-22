@@ -14,4 +14,22 @@
             ]
         }
   ]
+}，{
+  "address": "TNH6GDXmYQDDripcWhC7wZW4Kd4upva8s",
+  "name": "DOOD",
+  "symbol": "DOOD",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/txqz168/tron-tvc-list/main/images/dood.png",
+  "officialSite": "https://doodtoken.fun",
+  "email": "doodteam@proton.me",
+  "telegram": "https://t.me/doodtoken",
+  "twitter": "https://twitter.com/doodtoken",
+  "description": "DOOD is a decentralized community token on TRON. It maintains stable liquidity near 0.3 USDT through algorithmic range pools to ensure a fair and balanced market.",
+  "markets": [
+    {
+      "pair": "DOOD/USDT",
+      "exchange": "SunSwap V3",
+      "feeTier": "0.01%"
+    }
+  ]
 }
